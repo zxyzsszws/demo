@@ -1,0 +1,6 @@
+/home/zhouxingyuan/下载/opencv-4.7.0/Dmo/build/CMakeFiles/Demo.dir
+/home/zhouxingyuan/下载/opencv-4.7.0/Dmo/build/CMakeFiles/edit_cache.dir
+/home/zhouxingyuan/下载/opencv-4.7.0/Dmo/build/CMakeFiles/rebuild_cache.dir
+/home/zhouxingyuan/下载/opencv-4.7.0/Dmo/build/src/CMakeFiles/main.dir
+/home/zhouxingyuan/下载/opencv-4.7.0/Dmo/build/src/CMakeFiles/edit_cache.dir
+/home/zhouxingyuan/下载/opencv-4.7.0/Dmo/build/src/CMakeFiles/rebuild_cache.dir
